@@ -1,8 +1,8 @@
 {
-  "versions": [
+  "versions":[
     {
-      "version": "1.0.1",
-      "src": "http://10.117.42.37/w.swbn"
+      "version":"1.0.1",
+      "src":"http://10.117.42.37/w.swbn"
     }
   ]
 }
